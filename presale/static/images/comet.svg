@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <!-- 彗星轻智能手表 #0f766e -->
+  <rect x="88" y="40" width="64" height="26" rx="8" fill="#9ca3af"/>
+  <rect x="88" y="174" width="64" height="26" rx="8" fill="#9ca3af"/>
+  <rect x="66" y="66" width="108" height="108" rx="26" fill="#111827"/>
+  <rect x="78" y="78" width="84" height="84" rx="16" fill="#ffffff" stroke="#0f766e" stroke-width="3"/>
+  <path d="M120 100 L120 122 L136 132" fill="none" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="176" cy="108" r="5" fill="#0f766e"/>
+  <text x="120" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b7280">彗星轻智能手表</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <!-- 极光降噪耳机：商品色 #2563eb 点缀，白底黑字金额 -->
+  <path d="M55 130 C55 75 185 75 185 130" fill="none" stroke="#2563eb" stroke-width="9" stroke-linecap="round"/>
+  <rect x="42" y="122" width="30" height="58" rx="13" fill="#111827"/>
+  <rect x="168" y="122" width="30" height="58" rx="13" fill="#111827"/>
+  <rect x="48" y="130" width="10" height="42" rx="5" fill="#2563eb"/>
+  <rect x="182" y="130" width="10" height="42" rx="5" fill="#2563eb"/>
+  <circle cx="120" cy="92" r="7" fill="#2563eb"/>
+  <text x="120" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b7280">极光降噪耳机</text>
+</svg>
