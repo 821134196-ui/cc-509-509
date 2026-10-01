@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#ffffff"/>
+  <rect x="0" y="0" width="640" height="120" fill="#fef2f2"/>
+  <g transform="translate(320,215)">
+    <ellipse cx="0" cy="118" rx="120" ry="18" fill="#fee2e2"/>
+    <path d="M0 -120 L26 -30 L120 -30 L44 22 L72 110 L0 58 L-72 110 L-44 22 L-120 -30 L-26 -30 Z"
+          fill="#dc2626" opacity="0.92"/>
+    <path d="M0 -80 L15 -22 L72 -22 L24 12 L42 66 L0 34 L-42 66 L-24 12 L-72 -22 L-15 -22 Z"
+          fill="#fecaca"/>
+    <rect x="-8" y="58" width="16" height="60" rx="6" fill="#991b1b"/>
+  </g>
+  <text x="40" y="60" font-family="sans-serif" font-size="30" font-weight="700" fill="#111827">Comet 氛围灯</text>
+  <text x="40" y="92" font-family="sans-serif" font-size="16" fill="#b91c1c">活动已取消 · 已付款项进入退款审核</text>
+</svg>
